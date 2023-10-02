@@ -1,0 +1,18 @@
+{
+  "name": "projet_birdy",
+  "version": "1.0.0",
+  "description": "Projet de Technologies du Web 2020-2021",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Thierry UNG et Florian ZINOPOULOS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.7",
+    "sqlite3": "^5.0.2"
+  }
+}

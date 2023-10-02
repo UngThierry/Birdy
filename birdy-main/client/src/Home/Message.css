@@ -1,0 +1,63 @@
+.post
+{
+    background: #ffffff;
+    padding: 15px;
+    margin-bottom: 15px;
+    font: 1rem 'Fira Sans', sans-serif;
+    width: 500px;
+}
+
+.post > h1
+{
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+.message
+{
+    background: #ffffff;
+    border: 1px solid black;
+    overflow-wrap: break-word;
+}
+
+.comment
+{
+    background-color: lightyellow;
+    border: 1px solid black;
+    margin-bottom: 5px;
+    overflow-wrap: break-word;
+}
+
+.function_bar
+{
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+.Error-msg
+{
+    color: red;
+    margin-left: 210px;
+}
+
+.message-box
+{
+    margin-top: 30px;
+}
+
+.messageElement
+{
+    display: inline-flex;
+}
+
+.del_button
+{
+    margin-top: 28px;
+}
+
+.del_button button {
+    background-color: crimson;
+    border: 1px solid crimson;
+    cursor: pointer;
+}

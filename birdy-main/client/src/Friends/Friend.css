@@ -1,0 +1,39 @@
+.friend
+{
+    display: flex;
+    margin-top:5px;
+}
+
+.friend p {
+    display: inline-flex;
+}
+
+.friend-info
+{
+    margin-left: 100px;
+    margin-top: 12px;
+}
+
+.friend-pic
+{
+    height: 50px;
+}
+
+.friend-pic img
+{
+    height: 100%;
+}
+
+.friend-info button {
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: medium;
+    color: black;
+    cursor: pointer;
+}
+
+.delete_button button
+{
+    margin-top: 11px;
+}

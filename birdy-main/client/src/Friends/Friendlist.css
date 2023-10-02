@@ -1,0 +1,13 @@
+.delete_button
+{
+    cursor: pointer;
+    margin-left: 150px;
+    height: 50px;
+    /*margin-top: 15px;*/
+    height: auto;
+}
+
+.listElem
+{
+    display: inline-flex
+}

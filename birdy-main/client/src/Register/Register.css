@@ -1,0 +1,77 @@
+#register-page {
+    background-image: url('../Images/background.jpg');
+    height: 969px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.register-btn { 
+    color: #000000;
+}
+
+.register-btn:hover, .register-btn:focus, .register-btn:active { 
+    color: #000000;
+    background: #ff0000;
+}
+
+.register-btn:active:focus { 
+    background: #35ff03;
+}
+
+.register-form-box {
+    width: 370px;
+    height: 450px;
+    padding: 15px;
+    color: #000000;
+    position: relative;
+    top: 250px;
+    margin: auto;
+    background: rgb(255, 255, 255);
+}
+
+.register-form-box form {
+    margin-bottom: 20px;
+}
+
+.register-form-box input {
+    margin-top: 20px;
+    width: 98%;
+}
+
+.register-form-box input[type = "checkbox"] {
+    width: auto;
+}
+
+.register-form-box input[type = "submit"] {
+    width: 100%;
+}
+
+.register-form-box input[placeholder = "Firstname"] {
+    width: auto;
+}
+
+.register-form-box input[placeholder = "Lastname"] {
+    width: auto;
+    margin-left: 16px;
+}
+
+.register-form-logo {
+    width: 70%;
+    padding: 0 55px;
+}
+
+.register-form-logo img { 
+    width: 100%;
+    height: auto;
+}
+
+#login_button
+{
+    background: none;
+    border: none;
+    padding: 0;
+    color: #1a7ada;
+    font-size: 12pt;
+    cursor: pointer;
+}

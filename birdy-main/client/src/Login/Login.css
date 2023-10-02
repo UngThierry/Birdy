@@ -1,0 +1,68 @@
+#login-page {
+    background-image: url('../Images/background.jpg');
+    height: 969px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-btn { 
+    color: #000000;
+}
+
+.login-btn:hover, .login-btn:focus, .login-btn:active { 
+    color: #000000;
+    background: #ff0000;
+}
+
+.login-btn:active:focus { 
+    background: #35ff03;
+}
+
+.login-form-box {
+    width: 370px;
+    height: 450px;
+    padding: 15px;
+    color: #000000;
+    position: relative;
+    top: 250px;
+    margin: auto;
+    background: rgb(255, 255, 255);
+}
+
+.login-form-box form {
+    margin-bottom: 20px;
+}
+
+.login-form-box input {
+    margin-top: 20px;
+    width: 98%;
+}
+
+.login-form-box input[type = "checkbox"] {
+    width: auto;
+}
+
+.login-form-box input[type = "submit"] {
+    width: 100%;
+}
+
+.login-form-logo {
+    width: 70%;
+    padding: 0 55px;
+}
+
+.login-form-logo img { 
+    width: 100%;
+    height: auto;
+}
+
+#register {
+    background: none;
+    border: none;
+    padding: 0;
+    color: #1a7ada;
+    font-size: 12pt;
+    cursor: pointer;
+    margin-top: 15px;
+}

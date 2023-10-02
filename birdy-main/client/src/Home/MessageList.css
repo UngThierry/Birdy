@@ -1,0 +1,21 @@
+#message_list
+{
+    margin-left: 30%;
+}
+
+.messageElem
+{
+    margin-top: 10px;
+}
+
+#newPost
+{
+    width: 400px;
+    height: 65px;
+}
+
+#addPanel
+{
+    margin-left: 30%;
+    margin-top: 5%;
+}
